@@ -1,0 +1,5 @@
+myprojectname (0.1.0) UNRELEASED; urgency=medium
+
+  * Initial release. (Closes: #XXXXXX)
+
+ -- python-base-app <alx9110@yandex.ru>  Sat, 07 Oct 2017 20:00:19 +0300
