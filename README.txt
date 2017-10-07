@@ -1,2 +1,0 @@
-#Alexander Telkov#
-First app
